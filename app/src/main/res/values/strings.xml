@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Boardroom Booking</string>
+    <string name="title_activity_make_booking">MakeBooking</string>
+</resources>
